@@ -1,4 +1,4 @@
-const {generateTasks} = require('../index');
+const {generateTasks} = require('../../index');
 
 describe ('generateTasks', () => {
     it('should return 5 task objects as a JSON string', () => {
