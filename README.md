@@ -1,0 +1,5 @@
+I created the function in Apps Script. 
+I created a test.js to test the index.gs in Vscode (because I don't know how to test in another way).
+I created a sample output with name schema.json
+To push everything correctly to the GitHub was challanging for me, because of Apps Script is a remote plattform, but I think it worked well in the end. (Still feels confused)
+I created ci.yml in the end and tested. (I got help from chatgpt because I didn't have any idea how to do that).
