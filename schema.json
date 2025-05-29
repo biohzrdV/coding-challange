@@ -1,0 +1,27 @@
+[
+ {
+  "taskId": "OBJ-2025-999-T01",
+  "title": "Research automation tools",
+  "dueDate": "2025-05-31"
+ },
+ {
+  "taskId": "OBJ-2025-999-T02",
+  "title": "Submit weekly reports",
+  "dueDate": "2025-06-02"
+ },
+ {
+  "taskId": "OBJ-2025-999-T03",
+  "title": "Design database schema",
+  "dueDate": "2025-06-04"
+ },
+ {
+  "taskId": "OBJ-2025-999-T04",
+  "title": "E-mail the project",
+  "dueDate": "2025-06-06"
+ },
+ {
+  "taskId": "OBJ-2025-999-T05",
+  "title": "Finish all tasks",
+  "dueDate": "2025-06-08"
+ }
+]
